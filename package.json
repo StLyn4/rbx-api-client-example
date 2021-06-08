@@ -1,0 +1,19 @@
+{
+  "name": "rbx-api-client-example",
+  "version": "1.0.0",
+  "description": "Example project for rbx-api-client package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "roblox",
+    "rbx",
+    "rbx-api-client"
+  ],
+  "author": "Vsevolod Volkov",
+  "license": "MIT",
+  "dependencies": {
+    "rbx-api-client": "^1.2.1"
+  }
+}
